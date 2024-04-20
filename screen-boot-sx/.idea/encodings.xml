@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/screen-app-sx/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/screen-common-sx/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/screen-db-sx/screen-db-mysql-sx/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/screen-db-sx/screen-db-mysql/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/screen-db-sx/screen-db-redis-sx/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/screen-db-sx/screen-db-redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/screen-db-sx/screen-db-tdengine-sx/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/screen-db-sx/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/screen-db-sx/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/screen-msg-sx/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/screen-web-sx/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

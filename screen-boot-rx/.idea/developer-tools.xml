@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DeveloperToolsToolWindowSettingsV1" lastSelectedContentNodeId="uuid-generator">
+    <developerToolsConfigurations>
+      <developerToolConfiguration developerToolId="uuid-generator" id="1c733066-094f-404a-9823-978d50cb8a7d" name="Workbench">
+        <properties>
+          <property key="version" type="CONFIGURATION" value="dev.turingcomplete.intellijdevelopertoolsplugin._internal.tool.ui.generator.uuid.UuidVersion|V7" />
+        </properties>
+      </developerToolConfiguration>
+    </developerToolsConfigurations>
+  </component>
+</project>

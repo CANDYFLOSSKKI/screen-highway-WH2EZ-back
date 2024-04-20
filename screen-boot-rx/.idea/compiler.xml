@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="screen-db-tdengine-rx" />
+        <module name="screen-db-mysql-rx" />
+        <module name="screen-db-redis-rx" />
+        <module name="screen-app-rx" />
+        <module name="screen-msg-rx" />
+        <module name="screen-common-rx" />
+        <module name="screen-fusion-rx" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="screen-cache-rx" target="17" />
+      <module name="screen-web-rx" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="screen-app-rx" options="-parameters" />
+      <module name="screen-boot-rx" options="" />
+      <module name="screen-cache-rx" options="-parameters" />
+      <module name="screen-common-rx" options="-parameters" />
+      <module name="screen-db-mysql-rx" options="-parameters" />
+      <module name="screen-db-redis-rx" options="-parameters" />
+      <module name="screen-db-rx" options="" />
+      <module name="screen-db-tdengine-rx" options="-parameters" />
+      <module name="screen-fusion-rx" options="-parameters" />
+      <module name="screen-msg-rx" options="-parameters" />
+      <module name="screen-web-rx" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="screen-db-tdengine-sx" />
+        <module name="screen-db-mysql-sx" />
+        <module name="screen-db-redis-sx" />
+        <module name="screen-web-sx" />
+        <module name="screen-msg-sx" />
+        <module name="screen-app-sx" />
+        <module name="screen-common-sx" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="screen-app-sx" options="-parameters" />
+      <module name="screen-boot-sx" options="" />
+      <module name="screen-common-sx" options="-parameters" />
+      <module name="screen-db-mysql-sx" options="-parameters" />
+      <module name="screen-db-redis-sx" options="-parameters" />
+      <module name="screen-db-sx" options="" />
+      <module name="screen-db-tdengine-sx" options="-parameters" />
+      <module name="screen-msg-sx" options="-parameters" />
+      <module name="screen-web-sx" options="-parameters" />
+    </option>
+  </component>
+</project>
